@@ -1,0 +1,4 @@
+arroz,15.00
+feijão,16.55
+bolacha,4.99
+ovos,15.00
